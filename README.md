@@ -24,6 +24,12 @@
 - Strainer
 - 10-12" skillet that can go into the oven (cast iron works best, though you can substitute with others if you don't have one)
 
+**How long does this take?**
+
+If you did everything the easy way (using pre-shredded cheese, buying prepared Italian sausage, using marinara sauce), I'd estimate that it takes 45m of active prep time, 1.5 hours for total dough resting time, and 40m of oven cooking time.
+
+If you wanted to make things more legit IE shredding your own cheese, preparing your own sauce, and letting your dough rest more optimally (I'm not gonna count making your own sausage cause ain't nobody got time for that), I'd add an additional 30m on top of active prep time and another 1.5h of dough resting time. Also not taking into account the extra dishes you'll clean for the blender and bowls for sauce prep.
+
 ## Dough
 
 Mix 1.5 cups flour, 1 tsp sugar, 1/2 tsp salt, and 1/8 oz yeast in a bowl and mix with whisk/mixer until evenly distributed.
@@ -67,7 +73,7 @@ The parmesan can be shredded or crumbled, though crumbled works best. You can se
 
 ## Prep: Meat
 
-Italian sausage is usually what goes in a Chicago-style, though you can substitute with anything. I just bought the store variety (Johnson’s, which is admittedly serviceable).
+Italian sausage is usually what goes in a Chicago-style, though you can substitute with anything. I just bought the store variety (Johnson’s, which is admittedly serviceable). There's recipes online for how to make your own though.
 
 ## Prep: Sauce
 

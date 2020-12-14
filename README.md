@@ -2,27 +2,27 @@
 
 **Total ingredients needed**
 
-1.5c flour (All-purpose or Bread, bread works better. My cup measures 240mL)
-1 tsp sugar
-1/2 tsp salt
-1/2 packet yeast (about 1/8oz)
-1/4c olive oil or 4tbsp melted butter
-2/3c water
-More butter (refridgerated)
-Parmesan crumbs/flakes
-2 packs of **DRY** Mozzarella cheese (pre-shredded is easiest)
-1 giant can or 2 smaller cans of San Marzano (Italian) tomatoes OR chunky marinara sauce (easiest)
-More salt
-Pepper
-Fresh basil (or just use basil flakes)
+- 1.5c flour (All-purpose or Bread, bread works better. My cup measures 240mL)
+- 1 tsp sugar
+- 1/2 tsp salt
+- 1/2 packet yeast (about 1/8oz)
+- 1/4c olive oil or 4tbsp melted butter
+- 2/3c water
+- More butter (refridgerated)
+- Parmesan crumbs/flakes
+- 2 packs of **DRY** Mozzarella cheese (pre-shredded is easiest)
+- 1 giant can or 2 smaller cans of San Marzano (Italian) tomatoes OR chunky marinara sauce (easiest)
+- More salt
+- Pepper
+- Fresh basil (or just use basil flakes)
 
 **Hardware needed**
-Large bowl for mixing
-Dough whisk or mixer
-Rolling pin
-Blender/hand blender
-Strainer
-10-12" skillet that can go into the oven (cast iron works best, though you can substitute with others if you don't have one)
+- Large bowl for mixing
+- Dough whisk or mixer
+- Rolling pin
+- Blender/hand blender
+- Strainer
+- 10-12" skillet that can go into the oven (cast iron works best, though you can substitute with others if you don't have one)
 
 ## Dough
 
@@ -59,7 +59,7 @@ During this time you can prep the other ingredients.
 
 ## Prep: Cheese
 
-Not much to say here. You want 2 cheeses: Mozzarella and Parmesan.
+You want 2 cheeses: Mozzarella and Parmesan.
 
 The Mozzarella needs to be of the dry variety. If you use the fresh/wet kind, you'll have to use up a wad of paper towels to soak up the water that comes out after the pizza's done. Pre-shredded is easiest, though freshly grated tastes best. If you buy the pre-shredded, buy 2 packs. The pizza needs a ton of cheese.
 
@@ -67,7 +67,7 @@ The parmesan can be shredded or crumbled, though crumbled works best. You can se
 
 ## Prep: Meat
 
-Italian sausage is usually what goes in a Chicago-style, though you can substitute with anything. I just bought the store variety.
+Italian sausage is usually what goes in a Chicago-style, though you can substitute with anything. I just bought the store variety (Johnson’s, which is admittedly serviceable).
 
 ## Prep: Sauce
 
